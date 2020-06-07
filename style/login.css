@@ -1,0 +1,14 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Program Files\/phpStudy\/PHPTutorial\/WWW\/PHPProject\/0724\/MessageBoard\/style\/login\.less}line{font-family:\000032}}
+body {
+  background-color: aliceblue;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Program Files\/phpStudy\/PHPTutorial\/WWW\/PHPProject\/0724\/MessageBoard\/style\/login\.less}line{font-family:\000035}}
+.container {
+  width: 500px;
+  margin-top: 100px;
+  background-color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Program Files\/phpStudy\/PHPTutorial\/WWW\/PHPProject\/0724\/MessageBoard\/style\/login\.less}line{font-family:\000039}}
+.container .row {
+  margin: 0;
+}
