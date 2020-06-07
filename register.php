@@ -80,7 +80,7 @@
 				    	</div>
 				   </div>
 				    <div class="form-group">
-				  	    <label for="inputPassword3" class="col-sm-3 control-label">File input:</label>
+				  	    <label for="inputPassword3" class="col-sm-3 control-label">头像:</label>
 				        <div class="col-sm-8">
 				    	    <input type="file" name="iconhead" class="iconhead">
 				    	    <input type="hidden" name="MAX_FILE_SIZE" value="2000000"/>
